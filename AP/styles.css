@@ -1,0 +1,46 @@
+header{
+    height: 100vh;
+    background-size: cover;
+    background-image: url("back2.jpg");
+}
+img{
+    height: 200px;
+    float: left;
+    border-radius: 50%;
+    margin-top: 70px;
+    margin-left: 100px;
+    border-style: solid;
+}
+
+#head{
+    display: inline-block;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 120px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#des{
+    margin-left: 100px;
+    margin-right: 20px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+main{
+    height: 100vh;
+    background-size: cover;
+    background-image: url("back2.jpg");
+}
+
+#menu{
+    text-align: center;
+    font-size: 50px;
+}
+
+#menu1{
+    border-style: solid;
+    margin-left: 400px;
+    margin-right: 850px;
+}
