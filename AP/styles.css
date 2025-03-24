@@ -40,7 +40,19 @@ main{
 }
 
 #menu1{
+    display: block;
+    margin-left: 150px;
+    margin-right: 1100px;
+    margin-top: 290px;
+    font-size: 20px;
+}
+
+#im1{
     border-style: solid;
-    margin-left: 400px;
-    margin-right: 850px;
+    float: left;
+    margin-top: 30px;
+}
+
+#mp1{
+    text-align: center;
 }
