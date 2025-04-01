@@ -1,7 +1,12 @@
 header{
     height: 100vh;
     background-size: cover;
-    background-image: url("images/back2.jpg");
+    background-image: url("back2.jpg");
+}
+main{
+    height: 100vh;
+    background-size: cover;
+    background-image: url("back2.jpg");
 }
 img{
     height: 200px;
@@ -41,18 +46,249 @@ main{
 
 #menu1{
     display: block;
-    margin-left: 150px;
+    margin-left: 50px;
     margin-right: 1100px;
     margin-top: 290px;
     font-size: 20px;
 }
 
 #im1{
-    border-style: solid;
     float: left;
     margin-top: 30px;
+    border-radius: 100px;
+    width: 200px;
 }
 
 #mp1{
     text-align: center;
+}
+
+#veg{
+    font-size: 30px;
+    margin-left:100px;
+}
+
+#second{
+    display: block;
+    height: 400px;
+    width: 300px;
+    margin-right: 600px;
+    margin-left: 450px;
+    margin-top: -450px;
+}
+
+#menu2{
+    font-size: 20px;
+    display: block;
+    margin-top: 50px;
+}
+
+#mp2{
+    text-align: center;
+}
+
+#third{
+    display: block;
+    height: 500px;
+    margin-left: 900px;
+    margin-right: 600px;
+    margin-top: -450px;
+    width: 300px;
+}
+
+#mp3{
+    text-align: center;
+}
+#menu3{
+    font-size: 20px;
+    display: block;
+    margin-top: 50px;
+}
+
+#four{
+    display: block;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: -80px;
+    margin-right: 600px;
+    width: 300px;
+}
+
+#im4{
+    width:200px ;
+    margin-left: 40px;
+}
+#mp4{
+    text-align: center;
+}
+#menu4{
+    font-size: 20px;
+    display: block;
+    margin-top: 50px;
+}
+#five{
+    display: block;
+    height: 400px;
+    margin-left: 450px;
+    margin-top: -450px;
+    margin-right: 600px;
+    width: 300px;
+}
+#im5{
+    width:200px ;
+    margin-left: 40px;
+}
+#mp5{
+    text-align: center;
+}
+#menu5{
+    font-size: 20px;
+    display: block;
+    margin-top: 50px;
+}
+#six{
+    display: block;
+    height: 400px;
+    margin-left: 900px;
+    margin-right: 600px;
+    margin-top: -450px;
+    width: 300px;
+}
+#im6{
+    width:200px ;
+    margin-left: 40px;
+}
+#mp6{
+    text-align: center;
+}
+#menu6{
+    font-size: 20px;
+    display: block;
+    margin-top: 50px;
+}
+#n1{
+    display: block;
+    height: 350px;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+#nonveg{
+    font-size: 30px;
+    margin-top: 180px;
+    margin-left:-600px;
+    display: inline-block;
+}
+#im7{
+    width:200px ;
+    margin-left: 40px;
+    margin-top: -1px;
+}
+#mp7{
+    text-align: center;
+}
+#menu7{
+    font-size: 20px;
+    display: block;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+#eight{
+    display: block;
+    height: 500px;
+    width: 400px;
+    margin-right: 600px;
+    margin-left: 450px;
+    margin-top: -700px;
+    
+}
+
+#menu8{
+    font-size: 20px;
+    display: block;
+    margin-top: 50px;
+    margin-top: 350px;
+}
+#im8{
+    margin-top: -20px;
+}
+#mp8{
+    text-align: center;
+}
+#nine{
+    display: block;
+    height: 400px;
+    margin-left: 900px;
+    margin-right: 600px;
+    margin-top: -535px;
+    width: 300px;
+}
+#im9{
+    margin-top: -20px;
+}
+#menu9{
+    font-size: 20px;
+    display: block;
+    margin-top: 50px;
+}
+#ten{
+    display: block;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: -100px;
+    margin-right: 600px;
+    width: 300px;  
+}
+#im10{
+    margin-left: -2px;
+}
+#menu10{
+    font-size: 20px;
+    display: block;
+    margin-top: 50px;
+}
+#mp10{
+    text-align: center;
+} 
+#ele{
+    display: block;
+    height: 500px;
+    width: 300px;
+    margin-right: 600px;
+    margin-left: 450px;
+    margin-top: -700px;
+}
+#menu11{
+    font-size: 20px;
+    display: block;
+    margin-top: 10px;
+    margin-top: 280px;
+    margin-left: 2px;
+    padding-top: -3px;
+}
+#im11{
+    margin-left: 50px;
+   
+}
+#mp11{
+    text-align: center;
+}
+#twe{
+    display: block;
+    height: 500px;
+    margin-left: 940px;
+    margin-right: 600px;
+    margin-top: -770px;
+    width: 300px; 
+}
+#menu12{
+    font-size: 20px;
+    display: block;
+    margin-top: 10px;
+    margin-top: 280px;
+    margin-left: 2px;
+    padding-top: -3px;
+}
+#im12{
+    margin-left: -2px;
 }
